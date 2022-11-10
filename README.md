@@ -1,2 +1,2 @@
 # CoolCalories
-Eat your cals and get the gals
+Eat your cals
